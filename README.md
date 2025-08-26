@@ -10,8 +10,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Solution URL](https://github.com/TuanTT07/social-links-profile)
+-   Live Site URL: [Live site URL](https://tuantt07.github.io/social-links-profile/)
 
 ## My process
 
